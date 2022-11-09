@@ -46,8 +46,8 @@ Thank you for taking this exercise, it is much appericiated!
 	* void DeleteUser(userId)
 	* EditUser(userId,firstName,lastName)	
 11. Create a new MVC page called users in order to display a list of users inside an html table.
-12. Style the table with CSS3 as you whish.
-13. Add some CRUD operations to that table, Add new user,Edit a user, Delete a user. **Make sure the CRUD operations are used with Ajax requests and jQuery/boostrap.**
+12. Style the table with CSS3 as you wish.
+13. Add some CRUD operations to that table, Add new user,Edit a user, Delete a user. **Make sure the CRUD operations are used with Ajax requests and jQuery/bootstrap.**
 
 
 # GOOD LUCK 
