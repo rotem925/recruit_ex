@@ -24,7 +24,7 @@ Thank you for taking this exercise, it is much appericiated!
 
 ## Mission: 
 1. Create a new ASP.NET(.net framework) MVC application project - you can use Microsoft default new website template.
-2. Add dependency injection to the newly created project (You can choose Autodac, or anything else you fimiliar with).
+2. Add dependency injection to the newly created project (You can choose Autofac, or anything else you fimiliar with).
 3. Create another Class Library project and add it to the solution.
 4. Add EntityFramework6 to the class library project and configure it to use any LocalDb/SQL Server connection string.
 5. Configure EntityFramework with Code First pattern - Configure a DbContext instance.
