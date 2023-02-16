@@ -3,6 +3,8 @@
 
 The goal of this exercise is to use the composition API, in combination with the [Provide / Inject](https://vuejs.org/guide/components/provide-inject.html#provide-inject) feature, which is one of vue 3's novelty.
 
+:exclamation:[Click here](VTEST-VUE-COMPOSITION-API.zip) to download the predefined files.:exclamation:
+
 ## SUBJECT
 
 Build a hook-based toast system, using the composition API and the provide / inject vue 3 feature, using the component provider pattern. A component provider pattern is a design pattern that allows you to render components in your app from pure functions, while having a great control over the rendered component. 
